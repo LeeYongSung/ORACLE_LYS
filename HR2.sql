@@ -1,4 +1,4 @@
--- SELECT 실행 순서
+-- SELECT 실행 순서 
 -- FROM -> WHERE -> GROUP BY -> HAVING -> SELECT -> ORDER BY
 
 -- 21. 12.45, -12.45 보다 크거나 같은 정수 중 제일 작은 수를 계산하는 SQL 문을 각각 작성하시오.
